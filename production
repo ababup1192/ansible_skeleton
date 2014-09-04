@@ -1,0 +1,3 @@
+[docker-server]
+xxx.xxx.xxx.xxx ansible_ssh_user=hoge
+
